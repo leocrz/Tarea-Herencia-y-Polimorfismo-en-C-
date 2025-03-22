@@ -1,0 +1,14 @@
+C:\Users\leone\Music\Tarea-Herencia y Polimorfismo en C#\Tarea-Herencia y Polimorfismo en C#\obj\Debug\net8.0\Tarea-Herencia y Polimorfismo en C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leone\Music\Tarea-Herencia y Polimorfismo en C#\Tarea-Herencia y Polimorfismo en C#\obj\Debug\net8.0\Tarea-Herencia y Polimorfismo en C#.AssemblyInfoInputs.cache
+C:\Users\leone\Music\Tarea-Herencia y Polimorfismo en C#\Tarea-Herencia y Polimorfismo en C#\obj\Debug\net8.0\Tarea-Herencia y Polimorfismo en C#.AssemblyInfo.cs
+C:\Users\leone\Music\Tarea-Herencia y Polimorfismo en C#\Tarea-Herencia y Polimorfismo en C#\obj\Debug\net8.0\Tarea-Herencia y Polimorfismo en C#.csproj.CoreCompileInputs.cache
+C:\Users\leone\Music\Tarea-Herencia y Polimorfismo en C#\Tarea-Herencia y Polimorfismo en C#\bin\Debug\net8.0\Tarea-Herencia y Polimorfismo en C#.exe
+C:\Users\leone\Music\Tarea-Herencia y Polimorfismo en C#\Tarea-Herencia y Polimorfismo en C#\bin\Debug\net8.0\Tarea-Herencia y Polimorfismo en C#.deps.json
+C:\Users\leone\Music\Tarea-Herencia y Polimorfismo en C#\Tarea-Herencia y Polimorfismo en C#\bin\Debug\net8.0\Tarea-Herencia y Polimorfismo en C#.runtimeconfig.json
+C:\Users\leone\Music\Tarea-Herencia y Polimorfismo en C#\Tarea-Herencia y Polimorfismo en C#\bin\Debug\net8.0\Tarea-Herencia y Polimorfismo en C#.dll
+C:\Users\leone\Music\Tarea-Herencia y Polimorfismo en C#\Tarea-Herencia y Polimorfismo en C#\bin\Debug\net8.0\Tarea-Herencia y Polimorfismo en C#.pdb
+C:\Users\leone\Music\Tarea-Herencia y Polimorfismo en C#\Tarea-Herencia y Polimorfismo en C#\obj\Debug\net8.0\Tarea-Herencia y Polimorfismo en C#.dll
+C:\Users\leone\Music\Tarea-Herencia y Polimorfismo en C#\Tarea-Herencia y Polimorfismo en C#\obj\Debug\net8.0\refint\Tarea-Herencia y Polimorfismo en C#.dll
+C:\Users\leone\Music\Tarea-Herencia y Polimorfismo en C#\Tarea-Herencia y Polimorfismo en C#\obj\Debug\net8.0\Tarea-Herencia y Polimorfismo en C#.pdb
+C:\Users\leone\Music\Tarea-Herencia y Polimorfismo en C#\Tarea-Herencia y Polimorfismo en C#\obj\Debug\net8.0\Tarea-Herencia y Polimorfismo en C#.genruntimeconfig.cache
+C:\Users\leone\Music\Tarea-Herencia y Polimorfismo en C#\Tarea-Herencia y Polimorfismo en C#\obj\Debug\net8.0\ref\Tarea-Herencia y Polimorfismo en C#.dll
